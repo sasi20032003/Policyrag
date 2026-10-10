@@ -1,0 +1,13 @@
+BAJAJ ALLIANZ GENERAL INSURANCE
+=================================
+Download page: https://www.bajajallianz.com/health-insurance-plans.html
+
+Files to download and save here:
+  bajaj_allianz_health_guard_v1_2023.pdf         <- Health Guard Policy Wording
+  bajaj_allianz_arogya_sanjeevani_v1_2023.pdf    <- Arogya Sanjeevani Wording
+  bajaj_allianz_global_health_care_v1_2023.pdf   <- Global Health Care Wording
+
+Upload settings in app:
+  Policy Name:  Bajaj Allianz Health Guard
+  Insurer:      Bajaj Allianz
+  Version:      V1, effective_from=2023-01-01

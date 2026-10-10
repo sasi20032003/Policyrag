@@ -1,0 +1,13 @@
+CARE HEALTH INSURANCE (formerly Religare Health)
+==================================================
+Download page: https://www.careinsurance.com/download-center.html
+
+Files to download and save here:
+  care_health_supreme_v1_2023.pdf    <- Care Supreme Policy Wording
+  care_health_advantage_v1_2023.pdf  <- Care Advantage Policy Wording
+  care_health_classic_v1_2022.pdf    <- Care Classic Policy Wording
+
+Upload settings in app:
+  Policy Name:  Care Supreme
+  Insurer:      Care Health
+  Version:      V1, effective_from=2023-01-01

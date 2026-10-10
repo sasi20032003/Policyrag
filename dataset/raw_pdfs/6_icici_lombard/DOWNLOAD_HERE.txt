@@ -1,0 +1,13 @@
+ICICI LOMBARD GENERAL INSURANCE
+=================================
+Download page: https://www.icicilombard.com/downloads
+
+Files to download and save here:
+  icici_lombard_health_shield_v1_2023.pdf   <- Health Shield Policy Wording
+  icici_lombard_elevate_v1_2024.pdf         <- Elevate Policy Wording
+  icici_lombard_complete_health_v1_2023.pdf <- Complete Health Insurance Wording
+
+Upload settings in app:
+  Policy Name:  ICICI Lombard Health Shield
+  Insurer:      ICICI Lombard
+  Version:      V1, effective_from=2023-01-01

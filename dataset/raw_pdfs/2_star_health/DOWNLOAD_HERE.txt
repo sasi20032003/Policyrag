@@ -1,0 +1,14 @@
+STAR HEALTH AND ALLIED INSURANCE
+==================================
+Download page: https://www.starhealth.in/downloads/
+
+Files to download and save here:
+  star_health_comprehensive_v1_2023.pdf   <- Star Comprehensive Policy Wording
+  star_health_family_optima_v1_2023.pdf   <- Family Health Optima Wording
+  star_health_young_star_v1_2023.pdf      <- Young Star Policy Wording
+  star_health_senior_citizens_v1_2023.pdf <- Senior Citizens Red Carpet
+
+Upload settings in app:
+  Policy Name:  Star Comprehensive
+  Insurer:      Star Health
+  Version:      V1, effective_from=2023-01-01

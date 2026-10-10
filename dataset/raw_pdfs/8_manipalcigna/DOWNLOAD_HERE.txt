@@ -1,0 +1,12 @@
+MANIPALCIGNA HEALTH INSURANCE
+===============================
+Download page: https://www.manipalcigna.com/downloads/products
+
+Files to download and save here:
+  manipalcigna_prohealth_prime_v1_2023.pdf   <- ProHealth Prime Policy Wording
+  manipalcigna_prohealth_select_v1_2023.pdf  <- ProHealth Select Policy Wording
+
+Upload settings in app:
+  Policy Name:  ManipalCigna ProHealth Prime
+  Insurer:      ManipalCigna
+  Version:      V1, effective_from=2023-01-01

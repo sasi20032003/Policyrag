@@ -1,0 +1,13 @@
+HDFC ERGO GENERAL INSURANCE
+=============================
+Download page: https://www.hdfcergo.com/customer-service/downloads/policy-wordings
+
+Files to download and save here:
+  hdfc_ergo_optima_secure_v1_2023.pdf     <- Optima Secure Policy Wording
+  hdfc_ergo_optima_restore_v1_2023.pdf    <- Optima Restore Policy Wording
+  hdfc_ergo_myhealth_suraksha_v1_2023.pdf <- my:health Suraksha Wording
+
+Upload settings in app:
+  Policy Name:  HDFC ERGO Optima Secure
+  Insurer:      HDFC ERGO
+  Version:      V1, effective_from=2023-01-01

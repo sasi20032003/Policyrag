@@ -1,0 +1,13 @@
+TATA AIG GENERAL INSURANCE
+============================
+Download page: https://www.tataaig.com/downloads
+
+Files to download and save here:
+  tata_aig_medicare_v1_2023.pdf           <- Medicare Policy Wording
+  tata_aig_medicare_premier_v1_2023.pdf   <- Medicare Premier Policy Wording
+  tata_aig_wellsurance_family_v1_2023.pdf <- Wellsurance Family Wording
+
+Upload settings in app:
+  Policy Name:  Tata AIG Medicare
+  Insurer:      Tata AIG
+  Version:      V1, effective_from=2023-01-01

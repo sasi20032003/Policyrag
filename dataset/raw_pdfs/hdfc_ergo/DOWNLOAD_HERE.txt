@@ -1,0 +1,8 @@
+Place HDFC ERGO policy PDFs here.
+
+Download from: https://www.hdfcergo.com/customer-service/downloads/policy-wordings
+
+Recommended files:
+- hdfc_ergo_optima_secure_v1_2023.pdf
+- hdfc_ergo_optima_secure_v2_2024.pdf
+- hdfc_ergo_optima_restore_v1_2023.pdf

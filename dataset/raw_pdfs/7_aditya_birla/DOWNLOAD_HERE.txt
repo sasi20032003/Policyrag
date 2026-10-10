@@ -1,0 +1,13 @@
+ADITYA BIRLA HEALTH INSURANCE
+===============================
+Download page: https://www.adityabirlacapital.com/healthinsurance/
+
+Files to download and save here:
+  aditya_birla_activ_health_essential_v1_2023.pdf <- Activ Health Platinum Essential
+  aditya_birla_activ_health_enhanced_v1_2023.pdf  <- Activ Health Platinum Enhanced
+  aditya_birla_activ_assure_diamond_v1_2022.pdf   <- Activ Assure Diamond
+
+Upload settings in app:
+  Policy Name:  Aditya Birla Activ Health Platinum
+  Insurer:      Aditya Birla
+  Version:      V1, effective_from=2023-01-01

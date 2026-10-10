@@ -1,0 +1,12 @@
+GO DIGIT GENERAL INSURANCE
+============================
+Download page: https://www.godigit.com/health-insurance
+
+Files to download and save here:
+  go_digit_health_care_plus_v1_2023.pdf  <- Health Care Plus Policy Wording
+  go_digit_infinity_wallet_v1_2023.pdf   <- Infinity Wallet Policy Wording
+
+Upload settings in app:
+  Policy Name:  Go Digit Health Care Plus
+  Insurer:      Go Digit
+  Version:      V1, effective_from=2023-01-01

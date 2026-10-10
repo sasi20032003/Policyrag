@@ -1,0 +1,8 @@
+Place Niva Bupa policy PDFs here.
+
+Download from: https://www.nivabupa.com/customer-care/download-centre.html
+
+Recommended files:
+- niva_bupa_reassure_v1_2022.pdf   (ReAssure 2.0 - older version)
+- niva_bupa_reassure_v2_2024.pdf   (ReAssure 3.0 - newer version)
+- niva_bupa_health_companion_v1_2022.pdf

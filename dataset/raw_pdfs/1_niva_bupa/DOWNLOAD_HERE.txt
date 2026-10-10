@@ -1,0 +1,15 @@
+NIVA BUPA HEALTH INSURANCE
+===========================
+Download page: https://www.nivabupa.com/customer-care/download-centre.html
+
+Files to download and save here:
+  niva_bupa_reassure_v1_2022.pdf       <- ReAssure 2.0 Policy Wording
+  niva_bupa_reassure_v2_2024.pdf       <- ReAssure 3.0 Policy Wording
+  niva_bupa_health_companion_v1_2022.pdf <- Health Companion Policy Wording
+  niva_bupa_aspire_v1_2023.pdf         <- Aspire Policy Wording
+
+Upload settings in app:
+  Policy Name:    Niva Bupa ReAssure
+  Insurer:        Niva Bupa
+  V1: effective_from=2022-01-01, effective_until=2022-12-31
+  V2: effective_from=2024-01-01, effective_until=(leave blank)
